@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Source Sans Pro", sans-serif;
+  height: 4rem;
+  background-color: rgba(240, 240, 240);
+}
+
+#logo {
+  color: rgba(120, 120, 120);
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 15px;
+  padding-left: 150px;
+}
+
+nav a {
+  color: rgba(120, 120, 120);
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 15px;
+  padding-right: 50px;
+  justify-content: space-between;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h1 {
+  padding: 0px 0px 70px 0px;
+}
+
+#left-box {
+  margin: 60px 90px 20px 80px;
+  padding: 20px 30px 10px 30px;
+  width: 50%;
+}
+
+#right-box {
+  margin: 10px 150px 120px 50px;
+  padding: 10px 80px 10px 10px;
+  font-size: 90%;
+  height: 35rem;
+  width: 30%;
+}
+
+.bottom {
+  border-bottom: 1px solid black;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  margin: 10px 10px 10px 10px;
+  padding: 30px 20px 20px 20px;
+  width: 100%;
+}
+
+#toyosi {
+  display: flex;
+}
+
+.bottom-1 {
+  border-bottom: 1px solid black;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  margin: 10px 10px 10px 10px;
+  padding: 30px 20px 20px 20px;
+  width: 70%;
+}
+
+.bottom-2 {
+  border-bottom: 1px solid black;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  margin: 10px 10px 10px 10px;
+  padding: 30px 20px 20px 20px;
+  width: 30%;
+}
+
+h1 {
+  margin: 10px 0px 10px 10px;
+}
+
+.file {
+  padding: 40px 50px 40px 50px;
+  margin: 40px 0px 30px 0px;
+  width: 100%;
+  text-align: center;
+  border-style: dashed;
+  height: 7rem;
+}
+
+.button-2 {
+  padding: 10px 100px 10px 100px;
+  margin: 10px 0px 10px 0px;
+  background-color: rgb(12, 114, 12);
+  border: none;
+  text-align: center;
+  color: #fff;
+  width: 100%;
+}
+
+#words {
+  font-size: 90%;
+  margin: 10px 0px 40px 0px;
+}
+
+h4 {
+  font-weight: bold;
+  margin: 20px 0px 20px 0px;
+}
+
+#first {
+  margin: 20px 0px 20px 0px;
+}
+
+#second {
+  margin: 20px 0px 20px 0px;
+}
+
+#third {
+  margin: 20px 0px 60px 0px;
+}
+
+#fourth {
+  margin: 10px 0px 40px 0px;
+}
+
+.email {
+  padding: 10px 25px 10px 10px;
+  margin: 10px 5px 0px 0px;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  border-bottom: 1px solid black;
+}
+
+.thick {
+  font-weight: bold;
+}
+
+.Radio {
+  margin-top: 20px;
+  font-size: 80%;
+  font-weight: bold;
+}
+
+.thick-2 {
+  height: 2rem;
+  font-size: 70%;
+  font-weight: bold;
+}
+
+.button {
+  background-color: rgb(12, 114, 12);
+  border: none;
+  padding: 10px 5px 10px 5px;
+  color: #fff;
+}
